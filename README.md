@@ -1,3 +1,5 @@
+<h1>I copied this code from reconlx</h1>
+  <h2>I didn't make this. As I am Beginner in coding feild. Please forgive me if it hirts you @reconlx</h2>
 <div align="center">
   <a href="https://discord.gg/xCCpfth">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
