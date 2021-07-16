@@ -13,4 +13,4 @@
 # Also Join the discord server by clicking the discord icon.
 
 
-# ⇥  ⇤
+# ⇥ $am€€®×2™#8361 on discord  ⇤
