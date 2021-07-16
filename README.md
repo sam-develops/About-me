@@ -1,39 +1,36 @@
-<h1>I copied this code from reconlx</h1>
-  <h2>I didn't make this. As I am Beginner in coding feild. Please forgive me if it hirts you @reconlx</h2>
-<div align="center">
-  <a href="https://discord.gg/xCCpfth">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a href = "https://www.youtube.com/watch?v=9h5W4-hzts4&t=794s&ab_channel=reconlx">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
-  </a>
-</div>
+<!DOCTYPE html>
+<html lang="en">
 
-# Watch the event handler video to handle .on events https://youtu.be/-YTb_cUlzv4 (needed in the future videos)
+<body>
+    <header>
 
-# Join the discord support server by clicking the discord icon to get support if you encounter any errors.
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title> GAMECENT </title>
+
+    </header>
 
 
-# ⇥ Discord.JS-Coding-Tutorials ⇤
+    <div>
+        <blockquote>
+            <img src="/Images/giphy.gif" alt="GAMECENT" width="240" height="240">
+            <h1>Welcome to The <img src="/Images/usJpaHw.gif" alt="GAMECENT" width="240" height="240">
+            </h1>
+            <p>This is the best design pain to accrsoss the best thing i have ever seen in the fuking period.</p>
+        </blockquote>
+    </div>
 
-➽ Official GitHub of recon on YouTube, Discord.JS Coding Tutorials v12, 
 
-Welcome to My GitHub! I make a Branch for each episode I make on YouTube! Hopefully You guys will like it! If you want to see my playlist I have on YouTube for this Series!<br/>
-https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg
+    <footer>
+        copyright :- Mohammed Sameer
+    </footer>
+</body>
 
-# How and Where I can Find the Codes?
 
-First You have to click on The Branches:
-![image](https://user-images.githubusercontent.com/59381835/83589891-6241f580-a509-11ea-86a7-5e846d4089a8.png)
 
-![image](https://user-images.githubusercontent.com/59381835/83589430-8bae5180-a508-11ea-975a-ae4fee409fde.png)
-
-<div align="center">
-  <a href="https://discord.gg/xCCpfth">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a href = "https://www.youtube.com/channel/UCC-5dJ0BPTRSMaoDxntduHg">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
-  </a>
-</div>
+</html>
 
 -recon#0001 on discord
 
