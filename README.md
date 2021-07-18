@@ -8,7 +8,7 @@
        <img src="https://user-images.githubusercontent.com/40564781/125985072-b8f0677e-d450-4da3-9f64-8cf00b7a4a3f.gif" alt="Valorant" width="80"/>
 </div>
 
-  # Watch my one of the best gaming video ===>>> https://youtu.be/JIS4NdDd-dI.
+  # Watch my one of the best gaming video on youtube. ===>>> https://youtu.be/JIS4NdDd-dI.
 
 # Also Join the discord server by clicking the discord icon.
 
