@@ -9,8 +9,8 @@
 
   # Watch my one of the best gaming video on youtube. ===>>> https://youtu.be/JIS4NdDd-dI.
 
-# Also Join the discord server by clicking the discord icon.
+# Also Join the discord server.
 
 
 
-# ⇥ $am€€®×2™#8361 on discord  ⇤
+# ⇥ SameerX2#5163on discord  ⇤
