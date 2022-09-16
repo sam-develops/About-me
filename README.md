@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-develops" alt="sam-develops" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohammedsam33r" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedsam33r?logo=twitter&style=for-the-badge" alt="mohammedsam33r" /></a> </p>
+<p align="left"> <a https://twitter.com/Sam_develops" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedsam33r?logo=twitter&style=for-the-badge" alt="mohammedsam33r" /></a> </p>
 
 - 🔭 I’m currently working on [Personal Portfolio](https://github.com/sam-develops/Sam-Portfolio)
 
@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://codepen.io/professor_ghost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="professor_ghost" height="30" width="40" /></a>
 <a href="https://dev.to/samdevelops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samdevelops" height="30" width="40" /></a>
-<a href="https://twitter.com/mohammedsam33r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammedsam33r" height="30" width="40" /></a>
+<a href="https://twitter.com/Sam_develops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammedsam33r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammed-sameer-764a4414b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-sameer-764a4414b" height="30" width="40" /></a>
 <a href="https://fb.com/samdevelops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samdevelops" height="30" width="40" /></a>
 <a href="https://instagram.com/samdevelops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samdevelops" height="30" width="40" /></a>
